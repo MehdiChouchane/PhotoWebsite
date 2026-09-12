@@ -1,0 +1,8 @@
+{
+  "name": "mon-portfolio",
+  "version": "1.0.0",
+  "description": "Photography portfolio",
+  "scripts": {
+    "build": "node scripts/build.js"
+  }
+}
